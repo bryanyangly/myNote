@@ -1,5 +1,6 @@
 # Sublime text 3 plugins
-http://jeffjade.com/2015/12/15/2015-04-17-toss-sublime-text/
+http://jeffjade.com/2015/12/15/2015-04-17-toss-sublime-text/  
+https://packagecontrol.io/browse
 
 * MarkDown Editing
 * Sublime Terminal
@@ -11,3 +12,4 @@ http://jeffjade.com/2015/12/15/2015-04-17-toss-sublime-text/
 * DocBlockr
 * Git
 * BracketHighlighter
+* SyncedSideBar
